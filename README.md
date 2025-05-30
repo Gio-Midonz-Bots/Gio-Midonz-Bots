@@ -8,7 +8,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e tenho um forte interesse
 </p>
   <br>
 <!--   <div style="display: inline_block"><br> -->
-  <div align="center">
+  <div align="left">
   <img align="center" alt="Gio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <!--   <img align="center" alt="Gio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
